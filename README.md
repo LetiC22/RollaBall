@@ -12,7 +12,10 @@ United 2021
 Visual Studio
 C# language
 
-## Authors
+#### Additional component
+Music
 
- Leticia C.
+##### Authors
+
+      Leticia C.
 
